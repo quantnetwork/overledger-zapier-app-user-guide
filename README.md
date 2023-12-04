@@ -10,7 +10,7 @@ The actions available in Zapier's Overledger app currently reflect Overledger's 
 
 *NOTE: Due to Zapier's internal company policy on payment processing products, the actions to 'execute a transaction' are unavailable publicly in Zapier's Overledger app at this time. Should Zapier's internal policy change, then the 'execute a transaction' actions will be made public. In the meantime, contact Quant at https://quant.network/contact/ if you want to build apps using this Overledger functionality*.
 
-Finally, any questions regarding the following steps, please contact Quant's technical support at support@quant.zendesk.com.
+Finally, if you have any questions regarding the following steps, please contact Quant's technical support at support@quant.zendesk.com.
 
 
 ## Step 1: Setting Up Your Overledger Platform Authentication on Zapier
