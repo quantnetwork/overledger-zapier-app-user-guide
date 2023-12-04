@@ -1,6 +1,10 @@
 # Zapier's Overledger App
 
-This user guide is to help people use the Overledger app available in the Zapier app store. 
+This user guide is to help people use the Overledger app available in the Zapier app store in 3 simple steps:
+
+Step 1: Linking Your Overledger Account to Zapier
+Step 2: Understanding How to Test Zapier's Overledger App
+Step 3: Using Overledger on Zapier
 
 Zapier is an industry-leading no-code development platform, where users create 'Zaps' to seamlessly integrate disparate systems and automate workflows.
 
@@ -13,9 +17,9 @@ The actions available in Zapier's Overledger app currently reflect Overledger's 
 Finally, if you have any questions regarding the following steps, please contact Quant's technical support at support@quant.zendesk.com.
 
 
-## Step 1: Setting Up Your Overledger Platform Authentication on Zapier
+## Step 1: Linking Your Overledger Account to Zapier
 
-Before using the Overledger Platform app, you will need to register for a Quant Connect Account and then connect Zapier to your Quant Connect Account.
+Before using the Overledger app, you will need to register for a Quant Connect Account and then connect Zapier to your Quant Connect Account.
 
 ### Registering at Quant Connect
 
@@ -224,7 +228,7 @@ Before we go into the specifics of the Overledger Platform Zapier App, we provid
 
 - [Blocksscan](https://explorer.xinfin.network/).
 
-## Step 3: Creating Overledger Platform Powered Zaps
+## Step 3: Using Overledger on Zapier
 
 A quick-start guide to using Zapier can be found [here](https://zapier.com/resources/guides/quick-start). 
 
