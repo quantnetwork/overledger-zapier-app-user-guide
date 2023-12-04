@@ -1,8 +1,10 @@
 # Zapier's Overledger App
 
-This user guide is to help people use the Overledger app available in the Zapier app store. Zapier is an industry-leading no-code development platform, where users create 'Zaps' to seamlessly integrate disparate systems and automate workflows.
+This user guide is to help people use the Overledger app available in the Zapier app store. 
 
-Overledger is Quant’s powerful blockchain integration and tokenisation platform. By using new Overledger powered zaps, users can create automated sequences of API calls for actions such as data feeds, real time monitoring and more – all without any knowledge of blockchain technology or writing a line of code. Like all zaps, Overledger powered zaps can include additional integrations to any other app in the Zapier app store (including A.I. tools, Business analytic tools, traditional database and office programs, etc), meaning that the automation possibilities are almost endless.
+Zapier is an industry-leading no-code development platform, where users create 'Zaps' to seamlessly integrate disparate systems and automate workflows.
+
+Overledger is Quant’s powerful blockchain integration and tokenisation platform. By using new Overledger powered zaps, users can create automated sequences of API calls for actions such as data feeds, real time monitoring, and more – all without any knowledge of blockchain technology or writing a line of code. Like all zaps, Overledger powered zaps can include additional integrations to any other app in the Zapier app store (including A.I. tools, Business analytic tools, traditional database and office programs, etc), meaning that the automation possibilities are almost endless.
 
 The actions available in Zapier's Overledger app currently reflect Overledger's V3 APIs. Other Overledger APIs can be used via Zapier's Webhooks app. 
 
