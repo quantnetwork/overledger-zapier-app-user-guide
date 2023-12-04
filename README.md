@@ -3,7 +3,7 @@
 This user guide is to help people use the Overledger app available in the Zapier app store in 3 simple steps:
 
 - Step 1: Linking Your Overledger Account to Zapier
-- Step 2: Understanding How to Test Zapier's Overledger App
+- Step 2: How to Test Zapier's Overledger App
 - Step 3: Using Overledger on Zapier
 
 Zapier is an industry-leading no-code development platform, where users create 'Zaps' to seamlessly integrate disparate systems and automate workflows.
@@ -108,9 +108,9 @@ Once complete, when you return to the 'your apps' section of your Zapier account
 Now you are ready to start creating Overledger powered Zaps!
 
 
-## Step 2: Understanding How to Test Zapier's Overledger App
+## Step 2: How to Test Zapier's Overledger App
 
-Before we go into the specifics of the Overledger Platform Zapier App, we provide the following information for all of the available blockchain networks, so that you can perform accurate testing:
+Before we go into the specifics of the Overledger Zapier App, we provide the following information for all of the available blockchain networks, so that you can perform accurate testing:
 
 - **Block Explorer**: How to browse the transactions for this blockchain network via a user interface.
 - **Faucet**: How to get free testnet tokens for a test network. You need to receive test tokens in order to perform transactions on a test network. Note these are not available for main networks, because you will need to buy tokens from an exchange in order to transact. 
