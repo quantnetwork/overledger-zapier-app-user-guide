@@ -2,9 +2,9 @@
 
 This user guide is to help people use the Overledger app available in the Zapier app store in 3 simple steps:
 
-Step 1: Linking Your Overledger Account to Zapier
-Step 2: Understanding How to Test Zapier's Overledger App
-Step 3: Using Overledger on Zapier
+- Step 1: Linking Your Overledger Account to Zapier
+- Step 2: Understanding How to Test Zapier's Overledger App
+- Step 3: Using Overledger on Zapier
 
 Zapier is an industry-leading no-code development platform, where users create 'Zaps' to seamlessly integrate disparate systems and automate workflows.
 
