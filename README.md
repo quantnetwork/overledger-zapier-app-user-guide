@@ -2,7 +2,7 @@
 >
 > This repository has been archived and will no longer be maintained.
 >
-> For the up-to-date user guide for the Overledger integration on Zapier please visit Quant’s Developer Hub, beginning [here]([https://developers.quant.network/reference](https://developers.quant.network/docs/zapier)).
+> For the up-to-date user guide for the Overledger integration on Zapier please visit Quant’s Developer Hub, beginning [here](https://developers.quant.network/docs/zapier).
 >
 > ❗**IMPORTANT**❗
 
